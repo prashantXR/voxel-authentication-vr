@@ -55,7 +55,7 @@ Prashant Rawat, Rumeysa Türkmen, Chukwuemeka Nwagu, Kissinger Sunday, and Mayra
 ### Put Your Glasses On: A Voxel-Based 3D Authentication System in VR Using Eye-Gaze
 Rumeysa Türkmen, Chukwuemeka Nwagu, Prashant Rawat, Poppy Riddle, Kissinger Sunday, and Mayra Barrera Machuca.  
 **IEEE VRW 2023**  
-[DOI / Project reference to be added]
+[DOI](https://ieeexplore.ieee.org/document/10108649)
 
 ---
 
@@ -74,7 +74,6 @@ This work is part of a broader research effort on **interaction techniques for i
 
 - Demo video: *to be added*
 - System images: *to be added*
-- PDF / preprint links: *to be added where permitted*
 
 ---
 
