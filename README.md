@@ -26,7 +26,7 @@ This work explores how **voxel-based graphical passwords** can provide a **struc
 
 ## 🎥 Demo Video
 
-👉 (to be added)
+👉 (to be added as per publication policies)
 
 ---
 
